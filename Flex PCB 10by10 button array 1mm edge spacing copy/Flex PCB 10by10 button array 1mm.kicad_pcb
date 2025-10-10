@@ -64663,6 +64663,87 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_circle
+		(center 220.3 98.1)
+		(end 221.95 98.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "04219c5f-e391-40b1-b14e-ea27ad0887b1")
+	)
+	(gr_circle
+		(center 218.3 70)
+		(end 219.95 70)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "26fbb04d-0c29-4066-815b-12cfd2072f83")
+	)
+	(gr_circle
+		(center 164 70)
+		(end 165.65 70)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "2c9f1305-b6d4-4d40-8e5e-267083aca434")
+	)
+	(gr_rect
+		(start 159.35 67.35)
+		(end 222.7 121.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "385c6801-27a3-47c0-85aa-444179b555e8")
+	)
+	(gr_circle
+		(center 162 98.1)
+		(end 163.65 98.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "566c477e-5333-4278-b461-74361a1cd0eb")
+	)
+	(gr_text "Scan"
+		(at 214.65 119.4 0)
+		(layer "F.SilkS")
+		(uuid "03d26552-bee7-4ee8-9d70-442938c1e972")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Read"
+		(at 162.95 119.75 0)
+		(layer "F.SilkS")
+		(uuid "3d820bc6-5a10-4760-9b3e-2de384132c58")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(via
 		(at 168.520205 98.579189)
 		(size 0.6)
